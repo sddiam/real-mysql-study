@@ -40,5 +40,5 @@
 | 주차   | 챕터       | 발표자  | 블로깅 |
 |--------|------------|---------|--------|
 | 1주차  | 1, 2, 3장  | 정민석  | [정민석](https://minseok-study.tistory.com/entry/real-MySQL-1-2-3%EC%9E%A5) [xxx]() |
-| 2주차  | 4장     | 홍길동  | [XXX](https://example.com) |
+| 2주차  | 4장     | 백민정  | [XXX]() |
 
